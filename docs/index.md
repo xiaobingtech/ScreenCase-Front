@@ -7,7 +7,7 @@ hero:
   text: "把截屏、录屏套上壳"
   tagline: 
   image:
-    src: https://screenrecordcase.app.xiaobingkj.com/screenrecordcase_snapshot.png
+    src: https://screencase.app.xiaobingkj.com/screenrecordcase_snapshot.png
   actions:
     - theme: brand
       text: AppStore
