@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t,ai as i}from"./chunks/framework.CaiDwmc7.js";const f=JSON.parse('{"title":"常见问题","description":"","frontmatter":{},"headers":[],"relativePath":"faq.md","filePath":"faq.md"}'),n={name:"faq.md"};function o(_,a,s,l,d,c){return r(),t("div",null,[...a[0]||(a[0]=[i("",6)])])}const p=e(n,[["render",o]]);export{f as __pageData,p as default};
