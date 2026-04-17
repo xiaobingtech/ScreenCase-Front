@@ -12,6 +12,9 @@ hero:
     - theme: brand
       text: AppStore
       link: https://apps.apple.com/app/id1577909658
+    - theme: brand
+      text: AppGalley
+      link: https://appgallery.huawei.com/app/detail?id=com.xiaobingkj.screencase&channelId=SHARE&source=appshare
     - theme: alt
       text: 常见问题
       link: /faq
